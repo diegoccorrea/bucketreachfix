@@ -2,7 +2,7 @@
 
 Paper plugin that fixes block interaction range issues when using buckets.
 
-![Latest Release](https://img.shields.io/github/v/release/putindeer/mcdev-utils?style=flat-square&color=blue)
+![Latest Release](https://img.shields.io/github/v/release/putindeer/bucketreachfix?style=flat-square&color=blue)
 ![License](https://img.shields.io/github/license/putindeer/bucketreachfix?style=flat-square)
 ![GitHub last commit](https://img.shields.io/github/last-commit/putindeer/bucketreachfix?style=flat-square)
 
